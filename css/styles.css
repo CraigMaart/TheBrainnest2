@@ -112,10 +112,11 @@ button {
   gap: 100px;
 }
 
-.container div {
+.container div  {
   height: 150px;
   width: 150px;
   border-radius: 20%;
+
 }
 
 .container .box-text {
@@ -132,7 +133,7 @@ button {
   background-color: #e5e7eb;
 }
 
-.qoute {
+blockquote {
   color: #1f1937;
   padding: 50px 100px;
   margin: 50px;
